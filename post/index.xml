@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Abdul Rehman</title>
+    <link>https://abdul15588.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Abdul Rehman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://abdul15588.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1 : Bank Customers Segmentation UK</title>
+      <link>https://abdul15588.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sun, 11 Oct 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://abdul15588.github.io/portfolio/post/project-1/</guid>
+      <description>Performed some data wrangling to deal missing and unformated data Created Interactive Dashboard with customizable parameters Keenly Analyzed the bahviour of the customers in each region Extracted the useful Insights for each region Prepared Story telling sheet to reshape the customer stratgies in each region    Link to Github Repo</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Clustering and Regression</title>
+      <link>https://abdul15588.github.io/portfolio/post/project-2/</link>
+      <pubDate>Fri, 25 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://abdul15588.github.io/portfolio/post/project-2/</guid>
+      <description>Divide the stores in 2 Regions and Measure the performance of each region. Answered the following Questions a) Average Revenue per city b) Average amount spent on marketing per city c) Average ROMI per city (revenue/marketing spent)  Cluster the Cities on the basis of AVG Revenue,AVG Marketing spent and Population. Fit the the Regression line to each cluster. Apply the filter (new vs old locations) Identified 4 of the 10 new locations have the best potential for the company to invest more funds into marketing    Link to Github Repo</description>
+    </item>
+    
+  </channel>
+</rss>
